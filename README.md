@@ -12,8 +12,10 @@ Maintain the images synced from dockerhub
 ## 中文、英文、数字混合时空格的使用
 1. 英文与非标点的中文之间需要有一个空格，如「使用 DaoCloud 自动构建和部署」而不是「使用DaoCloud自动构建和部署」。(fn)
 2. 数字与非标点的中文之间需要有一个空格，如「我们发布了 5 个产品」而不是「我们发布了5个产品」。
-> 正确：「这是 1 款 Android 应用」，错误：「这是1款Android应用」。
-> 正确：「2014 年 2 月 14 日」，错误：「2014年2月14日」。
+
+- 正确：「这是 1 款 Android 应用」，错误：「这是1款Android应用」。
+
+- 正确：「2014 年 2 月 14 日」，错误：「2014年2月14日」。
 3. 尽可能使用中文数词，特别是当前后都是中文时。上面的例子写为「我们发布了五个产品」会更好。
 4. 除了"%", "°C", 以及倍数单位(如 2x, 3n)之外，其余数字与单位之间需要加空格。
 5. 注意特殊名词的大小写：Android、iOS、iPhone、Google、Apple，无论是否在句首都应该以同样的方式写。
@@ -37,14 +39,20 @@ Maintain the images synced from dockerhub
 
 ## 引用来源
 1. 如果在正文中部分引用第三方内容，请使用恰当的引用格式并注明出处。如：
-> One man’s constant is another man’s variable.
-> — Alan Perlis
+ > One man’s constant is another man’s variable.
+
+ >  — Alan Perlis
+
 2. 如果是全篇转载，请在全文开头显著位置注明作者和出处，并链接至原文，如：
-> 本文转载自 WikiQuote
+ >  本文转载自 WikiQuote
+
 3. 如果格式不允许超链接，请以文本方式直接给出原文链接。如果原文链接太长影响美观，可以使用短链接服务。如：
-> 本文转载自 WikiQuote：http://bit.ly/UlHIdN
+ > 本文转载自 WikiQuote：http://bit.ly/UlHIdN
+
 4. 文中有使用外站图片，必须在文末标明。来源如果来自外站必须添加链接，来源如果来自外部作品则不需要。如：「本文部分图片来自 ifanr」「题图来自：《春娇与志明》截图」。
+
 5. 若文章为全文翻译，必须在注明作者和出处，并链接至原文。
+
 6. 若文章为部分编译，则需在文末注明作者和出处。如：「本文部分内容编译自 Apple」「本文部分观点来自 煮机网微博」。
 
 ## 细节问题
@@ -81,8 +89,8 @@ Maintain the images synced from dockerhub
 - WiFi（错误：wifi、Wifi、Wi-fi）
 - email （错误：E-mail、Email）
 - 账号（错误：帐号，账户，帐户）
-%% [http://www.jianshu.com/p/baa85caede21] 
-%% 苹果台湾用「帳號」，大陆用「账户」
-%% 谷歌用「帐户」，百度用「帐号」
+ - [http://www.jianshu.com/p/baa85caede21] 
+ - 苹果台湾用「帳號」，大陆用「账户」
+ - 谷歌用「帐户」，百度用「帐号」
 - 登录（错误：登陆）
 - P.S. （错误：PS、ps、Ps.）
